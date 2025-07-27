@@ -26,26 +26,6 @@ A simple Flask web application that detects whether a news article is **Fake** o
 
 ---
 
-🗂️ Folder Structure
-fake-news-detector/
-│
-├── app.py                  # Main Flask backend
-├── news.csv                # Dataset (optional)
-│
-├── model/
-│   ├── train_model.py      # Model training script
-│   └── model.pkl           # Trained ML model
-│
-├── static/
-│   └── style.css           # Frontend CSS
-│
-├── templates/
-│   └── index.html          # Frontend HTML
-│
-├── README.md               # 🔹 This file
-└── requirements.txt        # (optional) Python dependencies
-
-
 ## 🚀 How to Run the Project
 
 ✅ Step 1: Navigate to your project folder using:
